@@ -1,0 +1,56 @@
+des,Brunei,Cambodia,Indonesia,Laos,Malaysia,Myanmar,Philippines,Singapore,Vietnam,Thailand,category
+"Meal, Inexpensive Restaurant",120.29,94.05,56.42,104.27,77.39,64.79,94.53,348.55,71.04,70.0,Restaurants
+"Meal for 2 People, Mid-range Restaurant, Three-course",961.53,647.88,451.37,779.82,464.32,647.88,630.17,1923.06,648.61,700.0,Restaurants
+McMeal at McDonalds (or Equivalent Combo Meal),174.28,194.36,112.84,161.97,116.08,161.97,94.53,192.31,156.29,200.0,Restaurants
+Domestic Non-Alcoholic Beer (0.5 liter draught),264.18,32.39,78.99,38.87,116.08,40.42,39.39,240.38,28.42,70.0,Restaurants
+Imported Non-Alcoholic Beer (0.33 liter bottle),162.14,64.79,112.84,97.18,123.82,48.59,63.02,288.46,56.83,120.0,Restaurants
+Cappuccino (regular),109.59,70.04,62.87,80.84,81.13,67.93,73.93,133.37,56.07,60.54,Restaurants
+Coke/Pepsi (0.33 liter bottle),24.67,24.78,19.8,36.2,18.96,18.62,20.46,43.47,17.25,20.82,Restaurants
+Water (0.33 liter bottle),18.88,13.03,9.71,21.76,10.85,10.5,12.51,33.12,10.14,10.71,Restaurants
+"Milk (regular), (1 liter)",48.49,69.13,42.09,84.43,51.45,48.3,55.42,85.4,48.54,55.49,Markets
+Loaf of Fresh White Bread (500g),45.98,48.34,37.5,63.09,26.07,32.39,38.35,58.49,28.28,42.25,Markets
+"Rice (white), (1kg)",41.08,36.68,28.82,51.73,32.55,42.79,31.7,75.36,28.86,39.14,Markets
+Eggs (regular) (12),62.98,55.79,50.09,60.96,45.67,48.95,56.48,79.64,47.4,55.14,Markets
+Local Cheese (1kg),211.56,560.67,255.97,993.27,361.99,332.25,208.46,619.62,413.26,522.19,Markets
+Chicken Fillets (1kg),164.76,161.87,105.82,141.31,117.54,152.36,129.22,250.25,112.5,73.08,Markets
+Beef Round (1kg) (or Equivalent Back Leg Red Meat),372.09,351.23,267.62,464.31,229.76,235.9,206.4,585.84,356.94,326.02,Markets
+Apples (1kg),111.18,129.58,81.06,156.12,69.17,67.49,85.23,113.45,89.34,87.96,Markets
+Banana (1kg),56.02,44.95,43.56,61.43,38.92,26.44,48.94,70.82,34.32,42.31,Markets
+Oranges (1kg),94.89,105.18,57.43,91.44,69.82,67.66,81.03,110.09,51.65,61.74,Markets
+Tomato (1kg),91.39,45.81,33.31,85.89,37.68,41.08,45.75,76.32,31.22,43.14,Markets
+Potato (1kg),56.76,44.85,40.93,75.24,25.09,39.03,58.26,62.4,38.58,42.13,Markets
+Onion (1kg),79.69,36.17,63.38,72.0,31.23,38.22,61.82,63.13,36.62,34.72,Markets
+Lettuce (1 head),60.11,45.48,30.49,59.09,27.01,44.54,46.43,52.91,23.52,31.68,Markets
+Water (1.5 liter bottle),25.53,21.44,14.71,19.34,17.52,17.73,24.68,35.82,16.58,16.87,Markets
+Bottle of Non-Alcoholic Wine (Mid-Range),48.08,323.94,677.05,388.73,541.71,453.52,252.07,721.15,284.16,570.0,Markets
+Domestic Non-Alcoholic Beer (0.5 liter bottle),127.48,28.27,75.66,35.03,79.09,36.02,35.9,121.05,26.01,56.99,Markets
+Imported Non-Alcoholic Beer (0.33 liter bottle),96.15,66.95,102.41,65.02,104.42,54.69,60.7,140.31,47.89,92.03,Markets
+Cigarettes 20 Pack (Marlboro),168.15,48.59,64.55,77.24,135.43,48.59,75.62,336.54,42.62,140.0,Markets
+One-way Ticket (Local Transport),24.04,48.59,11.28,21.91,19.35,6.48,6.93,43.27,9.95,30.0,Transportation
+Monthly Pass (Regular Price),661.05,1214.78,451.37,192.58,773.87,337.27,323.85,2884.59,284.16,1200.0,Transportation
+Taxi Start (Normal Tariff),108.17,32.39,16.93,97.18,30.95,48.59,25.21,84.13,15.63,35.0,Transportation
+Taxi 1km (Normal Tariff),108.17,32.39,12.41,64.79,19.35,32.39,8.51,24.04,21.31,35.0,Transportation
+Taxi 1hour Waiting (Normal Tariff),360.57,97.18,101.56,242.96,154.77,122.81,75.62,475.96,67.49,150.0,Transportation
+Gasoline (1 liter),12.84,32.68,22.11,34.36,15.96,23.45,34.97,58.5,30.11,32.5,Transportation
+Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),721148.04,1619700.9,1066349.92,1529780.13,1206034.86,814214.5,803470.05,3064879.17,1420801.56,1200000.0,Transportation
+Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),675421.79,1337410.17,915030.63,1129322.77,942735.46,709105.05,696176.12,2697230.14,1169218.28,847652.19,Transportation
+"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",1886.89,3040.58,2107.33,3109.92,1495.32,882.46,3599.88,4027.3,2155.31,2136.62,Utilities (Monthly)
+1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans),4.81,1.77,3.35,4.7,2.02,0.53,5.01,5.01,2.29,1.62,Utilities (Monthly)
+"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",3545.16,1065.59,1056.18,3265.6,928.21,2439.45,1434.89,1089.08,347.72,649.92,Utilities (Monthly)
+"Fitness Club, Monthly Fee for 1 Adult",1466.72,1811.75,950.11,1108.43,1061.34,1339.53,1191.77,3262.17,720.51,1600.08,Sports And Leisure
+Tennis Court Rent (1 Hour on Weekend),261.45,447.04,261.72,655.27,166.81,302.97,166.61,316.39,247.65,318.44,Sports And Leisure
+"Cinema, International Release, 1 Seat",168.27,161.97,112.84,178.14,116.08,129.58,157.54,312.5,127.87,200.0,Sports And Leisure
+"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",7520.78,6849.54,3212.93,3239.4,5349.3,13799.85,6115.33,30964.29,5333.36,11637.57,Childcare
+"International Primary School, Yearly for 1 Child",405732.63,228782.75,233488.79,150973.51,206915.7,287766.86,169059.24,700786.21,377812.63,392525.81,Childcare
+1 Pair of Jeans (Levis 501 Or Similar),2095.29,879.62,1264.39,2875.2,1656.65,1506.95,1340.03,2178.16,1302.1,1769.38,Clothing And Shoes
+"1 Summer Dress in a Chain Store (Zara, H&M, ...)",1082.43,598.04,903.9,1640.11,819.28,1280.07,833.31,1183.54,965.08,951.2,Clothing And Shoes
+1 Pair of Nike Running Shoes (Mid-Range),2826.9,1961.86,2126.14,3547.08,2069.62,2827.69,2448.29,3133.76,2967.74,2885.33,Clothing And Shoes
+1 Pair of Men Leather Business Shoes,2131.81,1480.87,2058.15,1450.74,1887.21,2962.04,2001.22,3300.75,2785.22,2554.81,Clothing And Shoes
+Apartment (1 bedroom) in City Centre,20839.6,14592.98,9142.55,19126.39,10838.68,19810.56,9853.84,68079.81,12785.57,12106.38,Rent Per Month
+Apartment (1 bedroom) Outside of Centre,16979.68,7894.54,5538.79,8671.18,6778.13,11570.61,5692.27,46684.8,8368.06,7128.61,Rent Per Month
+Apartment (3 bedrooms) in City Centre,39428.55,35178.61,21325.53,36331.57,19030.63,39776.13,20852.19,138620.68,27843.81,37565.76,Rent Per Month
+Apartment (3 bedrooms) Outside of Centre,27953.66,22133.56,12972.04,21240.97,12547.04,32192.68,11926.77,76865.22,16652.13,20233.58,Rent Per Month
+Price per Square Meter to Buy Apartment in City Centre,46874.62,67100.22,55180.51,75437.11,63635.31,27345.99,73606.61,594915.39,77170.91,112020.4,Buy Apartment Price
+Price per Square Meter to Buy Apartment Outside of Centre,29647.2,40355.3,29539.94,11263.44,37069.23,7307.95,42100.8,313220.06,42368.17,56432.34,Buy Apartment Price
+Average Monthly Net Salary (After Tax),61863.58,8558.09,9754.06,10108.24,26201.88,7677.57,9957.56,133302.86,14808.36,18519.8,Salaries And Financing
+"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",4.17,9.72,9.87,10.12,4.13,12.43,7.61,1.9,9.62,5.24,Salaries And Financing
